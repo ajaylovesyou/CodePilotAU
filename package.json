@@ -1,0 +1,9 @@
+{
+  "name": "codepilot",
+  "version": "2.0.0",
+  "description": "CodePilot — AI Music & Sound Therapy Studio by Team PS-11",
+  "private": true,
+  "engines": {
+    "node": ">=18"
+  }
+}
