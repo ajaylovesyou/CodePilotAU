@@ -1,4 +1,4 @@
-/* CSS OF Project  */
+/* CSS OF Project */
 
 :root{--bg:#03030e;--bg2:#08081a;--bg3:#0d0d20;--bg4:#131328;--border:#1c1c3a;--border2:#2c2c50;--text:#f0f0ff;--text2:#9090b8;--text3:#404060;--accent:#8b5cf6;--accent2:#ec4899;--accent3:#06b6d4;--green:#10b981;--amber:#f59e0b;--red:#ef4444;--grad:linear-gradient(135deg,#7c3aed,#ec4899,#06b6d4);--card-bg:rgba(13,13,32,0.96);--nav-bg:rgba(3,3,14,0.92);}
 [data-theme="light"]{--bg:#f4f4ff;--bg2:#eaeaf8;--bg3:#ffffff;--bg4:#f0f0ff;--border:#d4d4ec;--border2:#b4b4d4;--text:#0a0a20;--text2:#404068;--text3:#9090b8;--card-bg:rgba(255,255,255,0.97);--nav-bg:rgba(244,244,255,0.95);}
