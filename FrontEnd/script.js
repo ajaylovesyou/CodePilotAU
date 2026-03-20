@@ -1,7 +1,7 @@
 /* ═══════════════════════════════════════
    ALL FUNCTIONS DEFINED BEFORE USE
    No inline onclick dependencies on load
-═══════════════════════════════════════ */
+══════════════════════════════════════ */
 
 /* ── PROXY ── */
 const PROXY_URL = '/api/proxy';
