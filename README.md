@@ -56,7 +56,9 @@ Ensure the database connection in the .php files matches your local credentials 
 
 Open index.html in a modern web browser.
 
-👥 Team CodePilot (BCA 4th Semester)
+👥 Team CodePilot (BCA 4th Semester):
+
+
 Ajay Kushwaha - Project Lead & Full-Stack Developer
 
 Foram Upadhyay - UI/UX & Frontend Developer
